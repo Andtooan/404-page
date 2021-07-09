@@ -48,8 +48,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
 - [HTLM]
 - [CSS]
 
