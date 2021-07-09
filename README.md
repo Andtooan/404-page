@@ -36,7 +36,7 @@
 
 ## Overview
 
-![Captura de Pantalla 2021-07-09 a la(s) 11 02 5](https://user-images.githubusercontent.com/72485462/125106418-3b0f0d80-e0a5-11eb-8804-dfbada9ccbe2.png)
+![screenshot](https://user-images.githubusercontent.com/72485462/125106418-3b0f0d80-e0a5-11eb-8804-dfbada9ccbe2.png)
 
 
 
